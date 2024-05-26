@@ -14,9 +14,7 @@ export function ArrowBox() {
         />
       </g>
       <defs>
-        <clipPath id="clip_673">
-          <rect width="16" height="16" fill="currentColor" />
-        </clipPath>
+        <p>CHANGES</p>
       </defs>
     </svg>
   );
